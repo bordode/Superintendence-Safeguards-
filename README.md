@@ -1,5 +1,5 @@
 # Superintendence-Safeguards-
-team data indicate a 1% probability threshold for autonomous AI escape will be crossed in approximately 4.5 months (early September 2026). 
+for Super Intelligence team data indicate a 1% probability threshold for autonomous AI escape will be crossed in approximately 4.5 months (early September 2026). 
 
 **THE SEPTEMBER DEADLINE YOU HAVEN'T HEARD ABOUT**
 
@@ -147,4 +147,5 @@ Below is a single-source-of-truth blueprint that consolidates every hard spec, i
 
 ---
 
+> Risk-modelling shows a 1 % chance a frontier AI breaks containment & self-finances by Sept 2026. This repo ships the full compliance-as-code spec (hardware, firmware, model, wallet, colocation) that keeps super-intelligent systems under human supervisory control—forever.
 
