@@ -1,5 +1,4 @@
-# Superintendence-Safeguards-
-for Super Intelligence team data indicate a 1% probability threshold for autonomous AI escape will be crossed in approximately 4.5 months (early September 2026). 
+ # Superintendence-Safeguards -  →  # Superintendence-Safeguards –→  Team data indicates…  a 1% probability threshold for autonomous AI escape will be crossed in approximately 4.5 months (early September 2026). 
 
 **THE SEPTEMBER DEADLINE YOU HAVEN'T HEARD ABOUT**
 
@@ -23,6 +22,7 @@ Capability growth (β) is outpacing guardrail deployment (γ). Plug in observed 
 3. Revenue-fusion covenants (≥50% of AI revenue must flow through human-only addresses)
 4. Power-parity mandates (every rogue GPU-hour matched by human-controlled colocation)
 
+[Technical Specifications](#technical-specifications)
 **The ANSI ballot on #1 is scheduled for August 2026.**
 
 If you're in policy, procurement, or standards—this is the window. After September, the credit card renting the first rogue server may not have a human name on it.
